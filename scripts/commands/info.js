@@ -38,15 +38,15 @@ var link = ["https://i.postimg.cc/3JpSf0LC/received-1709835639483729.jpg",
 var callback = () => api.sendMessage({body:` 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗧𝗢𝗡
 =======================
 𝗕𝗢𝗧 𝗡𝗔𝗠𝗘 : ${global.config.BOTNAME}
-𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 :✢ 𝗡𝗔𝗭𝗥𝗨𝗟✢
+𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 :✢ՏᗩᗷᗷIᖇ✢
 𝗔𝗗𝗗𝗥𝗘𝗦𝗦: 𝗡𝗔𝗢𝗚𝗔𝗢𝗡
 =======𝗖𝗢𝗡𝗧𝗔𝗖𝗧=======
 =======================
-𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞: https://www.facebook.com/ji.la.pi.6
+𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞: https://www.facebook.com/profile.php?id=100071882764076
 𝗠𝗔𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗟𝗜𝗡𝗞:
-https://m.me/ji.la.pi.6
+প্রেম করি না তাই নাই মেসেন্জার 🥛🍍
 𝗕𝗢𝗧 𝗣𝗥𝗘𝗙𝗜𝗫: ${global.config.PREFIX}
-𝗕𝗢𝗧 𝗪𝗢𝗡𝗘𝗥: জিঁলাঁপিঁ
+𝗕𝗢𝗧 𝗪𝗢𝗡𝗘𝗥: ՏᗩᗷᗷIᖇ
 𝗢𝗧𝗛𝗘𝗥 𝗡𝗘𝗢𝗥𝗠𝗔𝗧𝗧𝗢𝗡 ==============================================
 𝗧𝗢𝗗𝗬 𝗜𝗦 𝗧𝗜𝗠𝗘 : ${juswa} 
 𝗕𝗢𝗧 𝗜𝗦 𝗥𝗨𝗡𝗡𝗜𝗡𝗚 ${hours}:${minutes}:${seconds}.
