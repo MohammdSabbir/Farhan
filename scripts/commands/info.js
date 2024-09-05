@@ -39,7 +39,7 @@ var callback = () => api.sendMessage({body:` 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢𝗥�
 =======================
 𝗕𝗢𝗧 𝗡𝗔𝗠𝗘 : ${global.config.BOTNAME}
 𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 :✢ՏᗩᗷᗷIᖇ✢
-𝗔𝗗𝗗𝗥𝗘𝗦𝗦: 𝗡𝗔𝗢𝗚𝗔𝗢𝗡
+𝗔𝗗𝗗𝗥𝗘𝗦𝗦: Sylhet 
 =======𝗖𝗢𝗡𝗧𝗔𝗖𝗧=======
 =======================
 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞: https://www.facebook.com/profile.php?id=100071882764076
