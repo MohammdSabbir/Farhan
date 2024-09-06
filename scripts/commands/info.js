@@ -27,13 +27,13 @@ const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
 var link = ["https://i.postimg.cc/3JpSf0LC/received-1709835639483729.jpg", 
             
-            "https://i.postimg.cc/28zrCYPW/received-2253672584826375.jpg", 
+            "https://i.postimg.cc/PrpRmtSY/1720617776195.jpg", 
             
-            "https://i.postimg.cc/3JpSf0LC/received-1709835639483729.jpg",
+            "https://i.postimg.cc/sXRrLT2f/1719744171742.jpg",
 
-"https://i.postimg.cc/3JpSf0LC/received-1709835639483729.jpg",
+"https://i.postimg.cc/PrpRmtSY/1720617776195.jpg",
             
-            "https://i.postimg.cc/28zrCYPW/received-2253672584826375.jpg"];
+            "https://i.postimg.cc/sXRrLT2f/1719744171742.jpg"];
   
 var callback = () => api.sendMessage({body:` 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗧𝗢𝗡
 =======================
