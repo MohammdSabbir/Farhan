@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/AkCns7z.jpeg" width="50" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
-🔹NAZRUL ISLAM
+🔹Sabbir Ahmed
 
 
 - [📝 **Note**](#-note)
@@ -21,7 +21,7 @@
 - [📜 **License**](#-license)
 - 
  FACEBOK
-https://www.facebook.com/profile.php?id=100090599230993&mibextid=kFxxJD"
+https://www.facebook.com/profile.php?id=100071882764076"
 
 <img align="center" src="https://i.imgur.com/AkCns7z.jpeg"/>
 
