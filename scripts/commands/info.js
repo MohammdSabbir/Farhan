@@ -29,11 +29,11 @@ var link = ["https://i.postimg.cc/3JpSf0LC/received-1709835639483729.jpg",
             
             "https://i.postimg.cc/PrpRmtSY/1720617776195.jpg", 
             
-            "https://i.postimg.cc/sXRrLT2f/1719744171742.jpg",
+            "https://i.postimg.cc/B6GjCc9H/IMG-20240906-122808.webp",
 
 "https://i.postimg.cc/PrpRmtSY/1720617776195.jpg",
             
-            "https://i.postimg.cc/sXRrLT2f/1719744171742.jpg"];
+            "https://i.postimg.cc/B6GjCc9H/IMG-20240906-122808.webp"];
   
 var callback = () => api.sendMessage({body:` 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗧𝗢𝗡
 =======================
